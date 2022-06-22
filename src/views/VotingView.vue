@@ -1,7 +1,6 @@
 <template>
   <div class="about">
-    <h1>방가방가^^*</h1>
-    <span class="msg">This is an about page.</span>
+    <span class="msg">This is an Votingview page.</span>
     <span class="name">홍규민</span>
   </div>
 </template>
